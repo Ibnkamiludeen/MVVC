@@ -1,0 +1,13 @@
+html{
+    border: 3px solid green;
+    background-color: indianred;
+}
+
+p{
+    font-size: 20px;
+    color: darksalmon;
+}
+
+h2{
+    color: blue;
+}
