@@ -1,0 +1,40 @@
+html{
+    background-color: #DBE8F7;
+    line-height: 1.5;
+    letter-spacing: 0.05em;
+    word-spacing: 0.15em;
+    font-size: 20px;
+    font-family: serif;
+}
+
+a{
+    color:  blue;
+}
+
+a:visited{
+    color: rgb(82, 82, 218);
+}
+
+a:hover, a:focus{
+    color: rgb(97, 97, 247);
+    background: white;
+}
+
+h3{
+    position: sticky;
+    color: blue;
+    font-size: 1rem;
+}
+
+footer{
+    font-family: serif;
+    color: chocolate;
+}
+ nav{
+    text-align: center;
+ }
+ ul{
+    display: block;
+    text-align: center;
+    list-style: inside;
+ }
